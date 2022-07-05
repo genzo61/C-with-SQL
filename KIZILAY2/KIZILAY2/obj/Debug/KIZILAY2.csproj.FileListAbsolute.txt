@@ -1,0 +1,13 @@
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\bin\Debug\KIZILAY2.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\bin\Debug\KIZILAY2.exe
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\bin\Debug\KIZILAY2.pdb
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.exe
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.pdb
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.istatislik.resources
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.anaform.resources
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.grafikler.resources
+C:\Users\aliha\OneDrive\Masaüstü\KIZILAY2\KIZILAY2\obj\Debug\KIZILAY2.giriş.resources

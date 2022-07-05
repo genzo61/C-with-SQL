@@ -1,0 +1,23 @@
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\bin\Debug\hastane proje.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\bin\Debug\hastane proje.exe
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\bin\Debug\hastane proje.pdb
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane proje.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.bilgidüzenle.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.branş.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.doktorbilgidüzenle.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.doktordetay.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.doktorgiriş.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.doktorpaneli.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.duyurular.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.hastagiriş.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.hastakayıt.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.hastakayıtdetay.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.randevu_listesi.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.sekreter_detay.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane_proje.sekreter_giriş.resources
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane proje.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane proje.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane proje.exe
+C:\Users\aliha\OneDrive\Masaüstü\hastane proje\hastane proje\obj\Debug\hastane proje.pdb
