@@ -1,0 +1,10 @@
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\bin\Debug\kitaplık.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\bin\Debug\kitaplık.exe
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\bin\Debug\kitaplık.pdb
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.exe
+C:\Users\aliha\OneDrive\Masaüstü\kitaplık\kitaplık\obj\Debug\kitaplık.pdb
