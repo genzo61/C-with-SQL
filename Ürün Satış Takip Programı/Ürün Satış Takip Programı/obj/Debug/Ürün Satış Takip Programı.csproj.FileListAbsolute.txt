@@ -1,0 +1,18 @@
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\Ürün Satış Takip Programı.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\Ürün Satış Takip Programı.exe
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\Ürün Satış Takip Programı.pdb
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\EntityFramework.dll
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\EntityFramework.xml
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün Satış Takip Programı.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün Satış Takip Programı.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün Satış Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün Satış Takip Programı.exe
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün Satış Takip Programı.pdb
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.frmanaform.resources
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.frmürün.resources
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.frmistatislik.resources
+C:\Users\aliha\OneDrive\Masaüstü\Ürün Satış Takip Programı\Ürün Satış Takip Programı\obj\Debug\Ürün_Satış_Takip_Programı.frmgiriş.resources
