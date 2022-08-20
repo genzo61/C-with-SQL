@@ -1,0 +1,12 @@
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\bin\Debug\Öğrenci not kayıt sistemi sql p1.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\bin\Debug\Öğrenci not kayıt sistemi sql p1.exe
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\bin\Debug\Öğrenci not kayıt sistemi sql p1.pdb
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci not kayıt sistemi sql p1.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci_not_kayıt_sistemi_sql_p1.frmgiriş.resources
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci_not_kayıt_sistemi_sql_p1.frmöğretmendetay.resources
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci_not_kayıt_sistemi_sql_p1.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci_not_kayıt_sistemi_sql_p1.öğrenci_sayfa.resources
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci not kayıt sistemi sql p1.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci not kayıt sistemi sql p1.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci not kayıt sistemi sql p1.exe
+C:\Users\aliha\OneDrive\Masaüstü\Öğrenci not kayıt sistemi sql p1\Öğrenci not kayıt sistemi sql p1\obj\Debug\Öğrenci not kayıt sistemi sql p1.pdb
