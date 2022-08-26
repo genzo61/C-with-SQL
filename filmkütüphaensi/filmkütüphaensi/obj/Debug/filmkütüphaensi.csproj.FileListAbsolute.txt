@@ -1,0 +1,10 @@
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\bin\Debug\filmkütüphaensi.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\bin\Debug\filmkütüphaensi.exe
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\bin\Debug\filmkütüphaensi.pdb
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.exe
+C:\Users\aliha\OneDrive\Masaüstü\filmkütüphaensi\filmkütüphaensi\obj\Debug\filmkütüphaensi.pdb
