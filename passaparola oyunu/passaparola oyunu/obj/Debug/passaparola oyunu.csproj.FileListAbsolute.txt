@@ -1,0 +1,10 @@
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\bin\Debug\passaparola oyunu.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\bin\Debug\passaparola oyunu.exe
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\bin\Debug\passaparola oyunu.pdb
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola oyunu.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola_oyunu.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola_oyunu.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola oyunu.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola oyunu.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola oyunu.exe
+C:\Users\aliha\OneDrive\Masaüstü\passaparola oyunu\passaparola oyunu\obj\Debug\passaparola oyunu.pdb
