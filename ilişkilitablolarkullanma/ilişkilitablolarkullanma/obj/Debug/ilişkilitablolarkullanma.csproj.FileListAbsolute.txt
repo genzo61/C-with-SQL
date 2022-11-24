@@ -1,0 +1,10 @@
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\bin\Debug\ilişkilitablolarkullanma.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\bin\Debug\ilişkilitablolarkullanma.exe
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\bin\Debug\ilişkilitablolarkullanma.pdb
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.exe
+C:\Users\aliha\OneDrive\Masaüstü\ilişkilitablolarkullanma\ilişkilitablolarkullanma\obj\Debug\ilişkilitablolarkullanma.pdb
